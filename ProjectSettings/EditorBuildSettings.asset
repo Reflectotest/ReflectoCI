@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 9164eb0d36df87242a2c3af5c63ca60d
+  - enabled: 1
+    path: Assets/Scenes/KartRacing.unity
+    guid: 03e964cd381e5dd418515247025a3a1c
+  m_configObjects: {}
